@@ -29,4 +29,7 @@ Thus in order to observe the amount of edges present in the washed dishes , we c
 12.Plot the original grayscale image .
 13.Plot the detected images .
 
+## Result :
+
+
 
