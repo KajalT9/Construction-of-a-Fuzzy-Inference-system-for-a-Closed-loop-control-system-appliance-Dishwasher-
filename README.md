@@ -30,6 +30,7 @@ Thus in order to observe the amount of edges present in the washed dishes , we c
 13.Plot the detected images .
 
 ## Result :
+![](grayscale.jpeg)
 ![](1x.jpeg)
 ![](1y.jpeg)
 ![](degreemembership.jpeg)
