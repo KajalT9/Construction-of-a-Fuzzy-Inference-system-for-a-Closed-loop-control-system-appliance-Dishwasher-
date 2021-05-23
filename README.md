@@ -1,5 +1,6 @@
 # Construction-of-a-Fuzzy-Inference-system-for-a-Closed-loop-control-system-appliance-Dishwasher-
 It is a Control System project using MATLAB that helps to overcome the limitations of a dishwasher .
+![](dishwasher.jpg)
 ### Application of  Fuzzy Logic Image processing.
 The washed dishes in the dishwasher tend to have edgy-like appearance on them after the washing process thus , with the help of Fuzzy logic Image processing , we can detect the edges on the surface .
 
