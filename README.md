@@ -33,7 +33,9 @@ Thus in order to observe the amount of edges present in the washed dishes , we c
 ![](1x.jpeg)
 ![](1y.jpeg)
 ![](degreemembership.jpeg)
-# Final output 
+# Final output
+Thus, we can clearly see that with the help of the Fuzzy Inference system, the white spots or dirt present in the dishes can be easily detected in the dishwasher. If a Fuzzy inference system is installed. 
+Overhear in the output image the parts which are grey in colour are the parts which are stained and have dirt on them.
 ![](finaloutput.jpeg)
 
 
